@@ -3,5 +3,5 @@
 # Twitter
 
 ```js
-https://easyapi.owenyoung.com/<username>/twitter/<token>
+https://simpleapi.owenyoung.com/<username>/twitter/<token>
 ```
